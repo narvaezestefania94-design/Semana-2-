@@ -1,0 +1,12 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git add semana2
+git commit -m “actvidad semana2”
+git remote add origin
+git branch -m main
+git push -u origin main
